@@ -1,0 +1,37 @@
+{
+  "name": "dark-code-master",
+  "displayName": "Dark Code Master",
+  "description": "Ajay Dhangar's theme",
+  "version": "0.0.1",
+  "publisher": "DarkCodeMaster",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "keywords": [
+    "visual-studio-code",
+    "vscode",
+    "theme",
+    "dark-theme",
+    "syntax-highlighting",
+    "dark-code-master",
+    "coding",
+    "developer-tools",
+    "web-development",
+    "dark-aesthetic"
+  ],
+  "author": {
+    "name": "Ajay Dhangar"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Code Master",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Code Master-color-theme.json"
+      }
+    ]
+  }
+}
