@@ -1,5 +1,7 @@
 # Dark Code Master Theme for Visual Studio Code
 
+![Dark Code Master](https://github.com/Ajay-Dhangar/dark-code-master-theme/assets/99037494/72f41c5d-1ba7-49b2-83b7-3d50512e724f)
+
 Dark Code Master is a meticulously crafted dark theme for Visual Studio Code, designed to enhance your coding experience with a sophisticated and visually appealing aesthetic. This theme focuses on providing a comfortable and immersive environment for developers who prefer dark coding themes.
 
 ## Features
@@ -18,6 +20,9 @@ Dark Code Master is a meticulously crafted dark theme for Visual Studio Code, de
 4. Set "Dark Code Master" as your active color theme. `Code → Preferences → Color Theme → Dark Code Master`
 
 ## Screenshots
+
+![Dark Code Master Theme](https://github.com/Ajay-Dhangar/dark-code-master-theme/assets/99037494/3098dcde-15e7-449c-bd84-07099361b584)
+
 
 ## Customization
 
